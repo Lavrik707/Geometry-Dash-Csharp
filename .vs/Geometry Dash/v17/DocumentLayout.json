@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|c:\\users\\vaio\\source\\repos\\geometry dash\\geometry dash\\game2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\game2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|c:\\users\\vaio\\source\\repos\\geometry dash\\geometry dash\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|c:\\users\\vaio\\source\\repos\\geometry dash\\geometry dash\\game2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\game2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|c:\\users\\vaio\\source\\repos\\geometry dash\\geometry dash\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|c:\\users\\vaio\\source\\repos\\geometry dash\\geometry dash\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\spike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\spike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\spike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\spike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\game.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\game.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\main menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\main menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\geometry dash\\main menu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E37C0C0F-1BF8-45EB-B263-FC770501B50A}|Geometry Dash\\Geometry Dash.csproj|solutionrelative:geometry dash\\main menu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Game.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game.cs",
+              "RelativeToolTip": "Geometry Dash\\Game.cs",
+              "ViewState": "AQIAAI8AAACAZmZmZmYmwKAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:04:53.886Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game1.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Game1.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Geometry Dash\\Game1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:41:25.104Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Game.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Geometry Dash\\Game.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:39:52.058Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game2.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Game2.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Geometry Dash\\Game2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:41:57.65Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Main menu.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Main menu.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Main menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Geometry Dash\\Main menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:09:15.344Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game2.cs",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game2.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Game2.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game2.cs",
+              "RelativeToolTip": "Geometry Dash\\Game2.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAiwFkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:49:05.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game1.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Game1.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game1.cs",
+              "RelativeToolTip": "Geometry Dash\\Game1.cs",
+              "ViewState": "AQIAAE4AAAAAZGZmZmYawFwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:48:08.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Player.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Player.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Player.cs",
+              "RelativeToolTip": "Geometry Dash\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:47:32.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Player.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Player.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Player.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Geometry Dash\\Player.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:46:23.032Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main menu.cs",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Main menu.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Main menu.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Main menu.cs",
+              "RelativeToolTip": "Geometry Dash\\Main menu.cs",
+              "ViewState": "AQIAABMAAAAsMzMzMzM8wCgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:23:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Spike.cs",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Spike.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Spike.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Spike.cs",
+              "RelativeToolTip": "Geometry Dash\\Spike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:14:17.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Spike.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Spike.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Spike.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Spike.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Geometry Dash\\Spike.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:21:51.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Block.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Block.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Block.cs",
+              "RelativeToolTip": "Geometry Dash\\Block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:40:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Block.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Block.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Block.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Block.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Geometry Dash\\Block.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:03:30.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Geometry Dash\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Properties\\Resources.resx",
+              "RelativeToolTip": "Geometry Dash\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-19T21:29:13.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Game.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game.Designer.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Game.Designer.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Game.Designer.cs",
+              "RelativeToolTip": "Geometry Dash\\Game.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:21:47.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Main menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Main menu.Designer.cs",
+              "RelativeDocumentMoniker": "Geometry Dash\\Main menu.Designer.cs",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Main menu.Designer.cs",
+              "RelativeToolTip": "Geometry Dash\\Main menu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:49:57.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Main menu.resx",
+              "DocumentMoniker": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Main menu.resx",
+              "RelativeDocumentMoniker": "Geometry Dash\\Main menu.resx",
+              "ToolTip": "C:\\Users\\Vaio\\source\\repos\\Geometry Dash\\Geometry Dash\\Main menu.resx",
+              "RelativeToolTip": "Geometry Dash\\Main menu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-07T16:42:35.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

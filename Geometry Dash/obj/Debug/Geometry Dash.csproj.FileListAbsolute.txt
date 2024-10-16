@@ -1,0 +1,15 @@
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\bin\Debug\Geometry Dash.exe.config
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\bin\Debug\Geometry Dash.exe
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\bin\Debug\Geometry Dash.pdb
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\obj\Debug\Geometry Dash.csproj.AssemblyReference.cache
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\obj\Debug\Geometry_Dash.Form1.resources
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\obj\Debug\Geometry_Dash.Properties.Resources.resources
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\obj\Debug\Geometry Dash.csproj.GenerateResource.cache
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\obj\Debug\Geometry Dash.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\obj\Debug\Geometry Dash.exe
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\obj\Debug\Geometry Dash.pdb
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\bin\Debug\Player.cs
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\obj\Debug\Geometry_Dash.Game.resources
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vaio\source\repos\Geometry Dash\Geometry Dash\obj\Debug\Geometry Dash.csproj.ResolveComReference.cache
